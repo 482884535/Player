@@ -1,6 +1,6 @@
-# 残月解析 - 弹幕播放器
+# Player
 
-Web Site Player
+残月解析 - 弹幕播放器
 
 Copyright © 2023 All Rights Reserved
 
