@@ -1,5 +1,7 @@
 # Player
 
+Version: 1.1.0
+
 残月解析 - 弹幕播放器
 
 Copyright © 2023 All Rights Reserved
