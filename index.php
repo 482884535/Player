@@ -4,15 +4,15 @@ if (empty($url)) {
 exit('<html>
 <head>
   <meta charset="UTF-8" />
-  <title>残月解析 - 弹幕播放器</title>
+  <title>残月解析-弹幕播放器</title>
   <link rel="shortcut icon" href="favicon.ico">
   <meta name="keywords" content="残月解析,弹幕播放器">
-  <meta name="description" content="残月解析 - 弹幕播放器 ">
+  <meta name="description" content="残月解析-弹幕播放器 ">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
   <meta name="x5-orientation" content="portrait" />
   <meta name="renderer" content="webkit" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <style>
+<style>
 body,html {
 	font: 18px"Microsoft Jhenghei",Arial,Lucida Grande,Tahoma,sans-serif;
 	width: 100%;
@@ -48,24 +48,26 @@ h1 {
 </script>
  </head>
  <body>
- <!-- <body background="https://www.19we.me/mizhiplayerapi/img/null_bg.png"> -->
+ <body background="img/bg.png">
   </div>
   <div id="loading" class="center">
 <h1 style="text-shadow: 2px 2px 5px #d5ebe1;">仅供内部交流研究，请勿用于任何商业用途 <br><br><br><br><br>    <font size="10">解析失败 URL为空，请稍后再试 ~ </font><br><br><font size="3"><p></p><p><p><br></p><p><br></font><font size="2"><br>本站均来于互联网，请勿用于商业用途，仅供学习交流
-<br><a href="/" target="_Blank"> Copyright © 2023 All Rights Reserved </a></font></h1>
+<br><br><br>
+<a href="/" target="_Blank"> Copyright © 2025 All Rights Reserved </a></font></h1>
 </body>
 </html>');
 }
 ?>
+
 <!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 <meta charset="UTF-8">
-<title> 残月解析 - 弹幕播放器</title>
+<title> 残月解析-弹幕播放器</title>
 <link rel="shortcut icon" href="favicon.ico">
 <meta name="keywords" content="残月解析,弹幕播放器">
-<meta name="description" content="残月解析 - 弹幕播放器 ">
+<meta name="description" content="残月解析-弹幕播放器 ">
 <link rel="stylesheet" href="./css/canyue.css">
 <style> 
 .qianyi-full-icon span svg,.qianyi-fulloff-icon span svg{display: none;}
